@@ -1,2 +1,1 @@
-Hi Git, I'm still learning
-I started Understanding your abilities
+Hi Git, I'm still learning 
